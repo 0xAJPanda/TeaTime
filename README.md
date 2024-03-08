@@ -1,0 +1,2 @@
+Tea Timer: 
+This utility app where users can set timers for different types of tea. They can select their preferred type of tea (green tea, black tea, herbal tea, etc.) and the app will provide recommended steeping times. It can also include notifications when the tea is ready.
